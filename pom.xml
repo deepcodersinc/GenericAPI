@@ -1,7 +1,38 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
+  
   <groupId>GenericAPI</groupId>
   <artifactId>GenericAPI</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <packaging>war</packaging>
+  
   <name>GenericAPI</name>
+  <description>A Generic API Project</description>
+  
+   <organization>
+        <name>deepcodersinc</name>
+        <url>http://deepcodersinc.com</url>
+   </organization>
+  
+   <developers>
+        <developer>
+            <id>123</id>
+            <name>Soumyadeep M</name>
+            <email>m.soumyadeep@gmail.com</email>
+            <organization>deepcodersinc</organization>
+            <roles>
+                <role>Developer</role>
+            </roles>
+        </developer>
+   </developers>
+   <licenses>
+        <license>
+            <name>Apache License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+            <comments>A business-friendly OSS license</comments>
+        </license>
+   </licenses>
+    
+  
 </project>
